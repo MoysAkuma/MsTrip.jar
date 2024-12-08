@@ -1,2 +1,2 @@
 # MsTrip.jar
-Microservice
+Microservice template, deprecrated
